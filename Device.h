@@ -5,7 +5,6 @@
 class Device : virtual public Product
 {
 public:
-	//Device(int batteryLife, float weight);
 	virtual ~Device() = default;
 	virtual void ShowSpec() override;
 

@@ -7,7 +7,6 @@ using namespace std;
 class Product
 {
 public:
-	//Product(int price);
 	virtual ~Product() = default;
 	virtual void ShowSpec() = 0;
 

@@ -5,8 +5,6 @@
 class Appliances : virtual public Product
 {
 public:
-	//Appliances(int supplyVoltage, int powerConsumption);
-
 	virtual ~Appliances() = default;
 	virtual void ShowSpec() override;
 
