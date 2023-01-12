@@ -2,7 +2,7 @@
 #include "Laptop.h"
 #include "Tv.h"
 #include "Player.h"
-#include "VacuumСleaner.h"
+#include "VacuumCleaner.h"
 #include "Smartphone.h"
 
 int main()
